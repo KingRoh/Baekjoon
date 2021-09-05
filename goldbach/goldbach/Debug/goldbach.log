@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\rokok\OneDrive\바탕 화면\algorithm\goldbach\goldbach\main.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  goldbach.vcxproj -> C:\Users\rokok\OneDrive\바탕 화면\algorithm\goldbach\Debug\goldbach.exe
