@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\java vs c++\java vs c++\main.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rokok\source\repos\java vs c++\java vs c++\main.cpp(48,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rokok\source\repos\java vs c++\java vs c++\main.cpp(57,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rokok\source\repos\java vs c++\java vs c++\main.cpp(66,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  java vs c++.vcxproj -> C:\Users\rokok\source\repos\java vs c++\Debug\java vs c++.exe
