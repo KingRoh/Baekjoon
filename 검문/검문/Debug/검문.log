@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\검문\검문\main.cpp(69,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  검문.vcxproj -> C:\Users\rokok\source\repos\검문\Debug\검문.exe
