@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\소용돌이 예쁘게 출력하기\소용돌이 예쁘게 출력하기\main.cpp(24,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\소용돌이 예쁘게 출력하기\소용돌이 예쁘게 출력하기\main.cpp(52,70): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  소용돌이 예쁘게 출력하기.vcxproj -> C:\Users\rokok\source\repos\소용돌이 예쁘게 출력하기\Debug\소용돌이 예쁘게 출력하기.exe
