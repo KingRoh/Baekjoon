@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\최단거리\최단거리\main.cpp(15,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'NODE' 왼쪽은 무시됩니다.
+C:\Users\rokok\source\repos\최단거리\최단거리\main.cpp(34,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  최단거리.vcxproj -> C:\Users\rokok\source\repos\최단거리\Debug\최단거리.exe
