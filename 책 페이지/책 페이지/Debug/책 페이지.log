@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(37,20): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(39,90): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(58,39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(62,21): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(65,124): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(67,21): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(72,16): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\책 페이지\책 페이지\main.cpp(76,13): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  책 페이지.vcxproj -> C:\Users\rokok\source\repos\책 페이지\Debug\책 페이지.exe
