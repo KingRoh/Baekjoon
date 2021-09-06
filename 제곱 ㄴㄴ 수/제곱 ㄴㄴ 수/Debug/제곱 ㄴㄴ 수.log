@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\제곱 ㄴㄴ 수\main.cpp(25,31): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\제곱 ㄴㄴ 수\main.cpp(32,12): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\제곱 ㄴㄴ 수\main.cpp(45,42): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\제곱 ㄴㄴ 수\main.cpp(48,22): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\제곱 ㄴㄴ 수\main.cpp(52,46): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\제곱 ㄴㄴ 수\main.cpp(54,43): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  제곱 ㄴㄴ 수.vcxproj -> C:\Users\rokok\source\repos\제곱 ㄴㄴ 수\Debug\제곱 ㄴㄴ 수.exe
