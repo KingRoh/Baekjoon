@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\rokok\source\repos\집합\집합\main.cpp(74,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rokok\source\repos\집합\집합\main.cpp(88,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  집합.vcxproj -> C:\Users\rokok\source\repos\집합\Debug\집합.exe
